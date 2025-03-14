@@ -1,0 +1,3 @@
+[submodule "external/mhook"]
+	path = external/mhook
+	url = https://github.com/apriorit/mhook.git
